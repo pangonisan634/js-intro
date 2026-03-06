@@ -1,7 +1,7 @@
 ## Andrew Pangonis
 ### Kingsley High School
 ---
-```(CSS)
+(CSS)```
 header { grid-area: header; }
 nav { grid-area: nav; }
 main { grid-area: main; }
